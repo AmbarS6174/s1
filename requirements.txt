@@ -13,3 +13,4 @@ gradio==4.44.0
 trl==0.12.0
 peft==0.14.0
 tyro==0.9.13
+ipywidgets==8.1.5
